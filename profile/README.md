@@ -11,6 +11,7 @@ Tell your agent the name and the ticker. It ships your coin on
 Create + dev buy in one atomic transaction, signed locally with your own wallet.
 
 [![npm](https://img.shields.io/npm/v/grokbotfun?style=flat-square&color=white&labelColor=black)](https://www.npmjs.com/package/grokbotfun)
+[![X](https://img.shields.io/badge/X-@GrokBotfun-white?style=flat-square&labelColor=black)](https://x.com/GrokBotfun)
 [![license](https://img.shields.io/badge/license-MIT-white?style=flat-square&labelColor=black)](https://github.com/GrokBotfun/GrokBotfun/blob/main/grokbotfun-mcp/LICENSE)
 
 </div>
