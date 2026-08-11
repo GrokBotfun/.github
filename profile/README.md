@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GrokBotfun/Grokfun/main/grokbotfun-mcp/PFP%20grok%20fun.png" width="160" alt="GrokBotfun ghost" />
+<img src="https://raw.githubusercontent.com/GrokBotfun/GrokBotfun/main/grokbotfun-mcp/PFP%20grok%20fun.png" width="160" alt="GrokBotfun ghost" />
 
 # GrokBotfun
 
